@@ -1,5 +1,10 @@
-body
-font-family: 'Charis SIL', serif;
+body{
+    font-family: 'Charis SIL',
+    serif;
+ margin: 0;
+}
+   
+
 h1{
     font-size: 40px;
 }
@@ -17,6 +22,7 @@ padding-left: 2%;
 }
 .top-banner{
     background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
 }
 section{
     height: 500px;
