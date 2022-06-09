@@ -1,0 +1,23 @@
+body
+font-family: 'Charis SIL', serif;
+h1{
+    font-size: 40px;
+}
+.name-highlight{
+    color: orange;
+}
+.half-width{
+    width: 35%;
+    float: left;
+margin-left: 5%;
+padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("images/top-banner.png");
+}
+section{
+    height: 500px;
+}
