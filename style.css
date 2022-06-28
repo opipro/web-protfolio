@@ -1,4 +1,5 @@
 body{
+    margin: 0;
     font-family: 'Charis SIL', serif;
 
     font-family: 'Poppins', sans-serif;
@@ -17,5 +18,20 @@ h1{
     padding-left: 2%;
 }
 .half-width img{
-    width: 100%;
+    width: 110%;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient( 45deg, lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
 }
