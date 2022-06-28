@@ -1,29 +1,12 @@
 body{
-    font-family: 'Charis SIL',
-    serif;
- margin: 0;
+    font-family: 'Charis SIL', serif;
+
+    font-family: 'Poppins', sans-serif;
 }
-   
 
 h1{
-    font-size: 40px;
+    font-size: 50px;
 }
-.name-highlight{
+.name{
     color: orange;
-}
-.half-width{
-    width: 35%;
-    float: left;
-margin-left: 5%;
-padding-left: 2%;
-}
-.half-width img{
-    width: 100%;
-}
-.top-banner{
-    background-image: url("images/top-banner.png");
-    background-repeat: no-repeat;
-}
-section{
-    height: 500px;
 }
